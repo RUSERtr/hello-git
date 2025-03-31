@@ -1,3 +1,10 @@
 console.log("Hello git");
 console.log("i don`t know wtf is git"); 
 console.log("GIT BASH");  
+console.log("GIT BASH");  
+console.log("GIT BASHdsfsdfsdf");  
+console.log("GIT BASHsdfsdfd");  
+console.log("GIT BAfsdf");  
+console.log("GIT BASH");  
+console.log("GIT Badgfdgd");  
+console.log("GIT BASHsgdfgdfsg");  

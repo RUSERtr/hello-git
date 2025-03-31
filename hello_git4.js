@@ -1,0 +1,1 @@
+console.log("prompt es un modulo de nodeJS");
