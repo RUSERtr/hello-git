@@ -2,8 +2,7 @@ class nodejs{
     constructor(modulos){
         modulos = "";
     }
-
-    Cambio_nodejs(){
+    mamamia(){
         var node = modulos;
     }
 }
